@@ -1,3 +1,4 @@
+// Fundamentos JavaScript -- Strings
 var nombre = "Mauricio", apellido = "Valadez";
 
 //Funciones para strings
