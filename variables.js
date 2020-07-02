@@ -1,3 +1,4 @@
+// Fundamentos de JavaScript -- Variables
 var nombre = 'Mauricio', apellido = 'Valadez';
 var edad = 28;
 
